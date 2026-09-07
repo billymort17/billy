@@ -1,0 +1,23 @@
+style {
+    background: lightblue;
+    <img src="cornwallpicture.jpg">
+    body {
+        color: lemonchiffon;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    p {
+        color: aliceblue;
+    }
+
+    table {
+        border: solid 1px black;
+    }
+    #p1 {
+        color: beige;
+    }
+    #p2 {
+        color: cornflowerblue;
+    }
+}
+
